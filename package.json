@@ -1,0 +1,18 @@
+{
+  "name": "openspec-cn",
+  "version": "0.1.0",
+  "description": "Chinese patch wrapper for OpenSpec without modifying upstream",
+  "license": "MIT",
+  "bin": {
+    "openspec-cn": "./bin/openspec-cn.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "schemas",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
